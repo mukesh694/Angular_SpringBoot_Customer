@@ -1,0 +1,17 @@
+
+input.ng-invalid.ng-touched{
+    border: 1px solid red;
+}
+
+.container{
+      margin-top: 45px;
+      text-align: center;
+}
+.mb-3{
+    text-align: center;
+}
+.db{
+    margin-top: 20px;
+    color: green;
+    
+}

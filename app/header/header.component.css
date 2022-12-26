@@ -1,0 +1,18 @@
+.navbar-nav > li{
+    padding-left:150px;
+    padding-right:5px;
+    margin-left:20px;
+  margin-right:0px;
+
+  }
+  .navbar-default{
+    background-color: #11a6d4;
+  
+  }
+  .nav.navbar-nav li a {
+    color: white
+}
+.navbar-brand{
+    color: white;
+}
+
